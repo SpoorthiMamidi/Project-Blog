@@ -1,0 +1,10 @@
+h2{
+    color:#c93d4b;
+}
+
+button[type=submit]{
+    background-color: #e66666;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+}
